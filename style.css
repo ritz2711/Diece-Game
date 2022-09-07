@@ -1,0 +1,27 @@
+body{
+    background-color: #393E46;
+}
+.container{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+.player{
+    text-align: center;
+    display: inline-block;
+
+}
+h1{
+    font-size: 8rem;
+    font-family:'Lobster', cursive;
+    text-shadow: 2px 0 #232931;
+    color: #4ECCA3;
+}
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+img{
+    width: 80%;
+}
